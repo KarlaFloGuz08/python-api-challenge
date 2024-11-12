@@ -50,14 +50,24 @@
 ## Cloudiness vs. Latitude Linear Regression Plot
 
 ### Northern Hemisphere
-
+![image](https://github.com/user-attachments/assets/59fa4b9e-9dd8-48e8-8f05-c069bd107ba0)
 
 ### Southern Hemisphere
 
+![image](https://github.com/user-attachments/assets/9c4f783c-7bb7-4e18-b1e0-2085ae9ec2fa)
 
 
+## Wind Speed vs. Latitude Linear Regression Plot
 
+### Northern Hemisphere
 
+![image](https://github.com/user-attachments/assets/80976082-a6cf-4ff0-ac31-26ee3b2eb876)
+
+### Southern Hemisphere
+
+![image](https://github.com/user-attachments/assets/7a17aaa2-572b-4d8e-baa0-164152f9fe90)
+
+-----------------------------------------------------------------------------------------------
 ## Vacation Py
 
 ## Step 1: Create a map that displays a point for every city in the city_data_df DataFrame. The size of the point should be the humidity in each city.
